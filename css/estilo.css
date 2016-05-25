@@ -11,7 +11,7 @@
 			 float:left;
 			 width:100%;
 			 height:25%;
-			 background: #FCC;
+			 background: #C69;
 			 text-align:center;
 			 color:#FFF;
 			 font-size:4em;
@@ -28,8 +28,8 @@
 			 float:left;
 			 height:90%;
 			 outline:#3F3 solid 1px;
-			 background:#F9C;
-			 width:14.28571428571429%;
+			 background: #C9F;
+			 width:6.6%;
 		 }
 		 .textonota{
 			 position:relative;
@@ -39,7 +39,7 @@
 			 font-weight:bold;
 		 }
 		 .tocada {
-		 background: #C6F;
+		 background: #C6C;
 		 color: #fff;
 		 outline: #ff0 solid 1px;
 		 }

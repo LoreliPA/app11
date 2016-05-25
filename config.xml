@@ -14,7 +14,7 @@
   <preference name="phonegap-version" value="3.5.0" />
   
   <author href="http://build.phonegap.com" email="support@phonegap.com">
-     Diana Linares Uscanga
+     Loreli Ponce Ayala.
   </author>
   
  <gap:plugin name="org.apache.cordova.vibration" version="0.3.0" />
